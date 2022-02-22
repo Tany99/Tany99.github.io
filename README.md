@@ -6,12 +6,12 @@ Git指令玩的还不太好；这个网站目前还是内测版本。。
 
                                                                                                       
  !<^ .       `l+[)1{}]]_<:  .   ...:;`                                                                
-vCnQ.      +jvXX]!>uUcnf{jv[    ..XXum,                                                               
+vCnQ.      +jvXX]!>uUcnf{jv}    ..XXum,                                                               
 _ubj     "Xu!I\u? _XXzt_. :Xv'    -bc_.                                                               
-  (C?'  `Q|  `[_'   :<l`.. .0t    -p:                                                                 
+  (C?'  `Q|  `]_'   :<l`.. .0t    -p:                                                                 
    ;/n(!+k` . !~l{|{{i      1Z "-uc!                                                                  
      ^_|Cq. ..;lr0QX(^    . _ojx1l                                                                    
-        ]w'  . !U\)rJ;      [w,                                                                       
+        ]w'  . !U\)rJ;      w,                                                                      
         >k"     .]tt+..     (C                                                                        
         !h,                 )O                                                                        
         ;h!               . _b`                                                                       
@@ -20,7 +20,7 @@ _ubj     "Xu!I\u? _XXzt_. :Xv'    -bc_.
       ^fcux-I^           .';{vx-` .                                                                   
     .']vuuucvn(1)1]!::l_)\fuvuvvf!...                                                                 
 .    ^rzvuuuvvvvvvcvnnuvvvvvunfj{"...                                                                 
-      l[1nuvfnvuvvvuuvuuvvv{CYl'`                                                                     
+      l1nuvfnvuvvvuuvuuvvv{CYl'`                                                                     
    '(j/|+rc(!f/vrf(nvnvv\[} ]p[/\\fi                                                                  
    "mr)vwZ_..^,];`.+/l>I'   .zhj)\Qf                                                                  
     '!i;^.  .     . .         ,l;:^          
